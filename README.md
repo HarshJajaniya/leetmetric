@@ -23,5 +23,5 @@ Check out the live version of LeetMetric here: [LeetMetric by Harsh](https://lee
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/leetmetric.git
+   git clone https://github.com/HarshJajaniya/leetmetric/tree/main
    cd leetmetric
